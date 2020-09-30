@@ -1,0 +1,13 @@
+title of item 1
+===============
+
+.. contents:: 
+   :local:
+
+Here is an example of how to add code::
+
+
+    [user2bmb@lyra,47,startup]$ cd ~/.ipython/profile_2bmb/startup/
+    [user2bmb@lyra,52,startup]$ caget mona:StopAcquisition
+
+
