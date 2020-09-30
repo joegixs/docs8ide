@@ -9,6 +9,6 @@
 Features
 --------
 
-* Documentation: https://docs8id2.readthedocs.io
+* Documentation: https://docs8ide.readthedocs.io
 
 
